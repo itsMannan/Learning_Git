@@ -1,0 +1,1 @@
+print('Checking if commit works properly!')
